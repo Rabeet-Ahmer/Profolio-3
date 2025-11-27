@@ -1,3 +1,18 @@
-# Profolio 3
+# Profolio-3
 
-A stunning, animation-heavy portfolio website built with Next.js, Framer Motion, and GSAP.
+An animation-heavy portfolio website built with Next.js, TypeScript, Tailwind CSS, Shadcn/UI, Framer Motion, GSAP, and Lenis.
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
